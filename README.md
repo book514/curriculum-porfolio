@@ -1,6 +1,6 @@
 # Parent-Facing K to 8 Curriculum Site: Portfolio Sample
 
-**Live site:** https://YOUR-USERNAME.github.io/curriculum-portfolio/
+**Live site:** https://arsheen.sayeed.github.io/curriculum-portfolio/
 
 A curriculum website I designed and wrote so that families can see exactly what their
 child is learning, when it happens, and which program it comes from, for every subject
